@@ -1,3 +1,39 @@
+#拉格朗日自动升级建筑脚本（1.通知版）
+部署服务器，电报机器人追踪状态。
+#1.登录账号
+#1.1网页登录 1.2电脑模拟器 1.3手机登录
+#2.识别区域
+#2.1登录后特点区域截图。资源截图。建筑区域截图
+#3.检索条件
+#3.1百度识图给出判断。建筑队列是否闲置
+#5.条件成立，电报机器人通知
+#6.退出游戏。切换账号电脑动作移动选择用户名
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Done! Congratulations on your new bot. You will find it at t.me/Messengerlglr4me_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
 
 Use this token to access the HTTP API:
